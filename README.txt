@@ -1,5 +1,11 @@
+This was the dissertation project for a BSc in Computer Science at King's College London.
 
- Instructions
+Please do have a look at the report  which will give an in-depth explaination. 
+
+
+
+ Instructions to execute the code:
+
 The following instructions will help in running the source code for the models built in this project. The source code is written in Python, and requires the installation of a few libraries.
 • Setup an environment that can run Python3 code (Possibly an IDE).
 • Before running the code, the libraries used in this project need to be downloaded. The libraries used in this project along are mentioned here. To install a library enter the associated command into a terminal window.
